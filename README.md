@@ -51,4 +51,4 @@ print(norm)
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
 
 ## DEVELOPED BY: D.B.V.SAI GANESH
-## REGISTER NO:212223240025
+## REGISTER NO: 212223240025
